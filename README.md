@@ -1,4 +1,4 @@
-docker-known
+docker-known container
 ============
 
 Based on [Eric Hansander's](https://github.com/ehdr) [Docker Known container](https://registry.hub.docker.com/u/ehdr/known/), builds a set of containers to run the latest version of [Known](https://withknown.com/) with one process per container, i.e.:
